@@ -1,4 +1,4 @@
-# djangoProjects
+# django project
 При создании проекта на Django, первый шаг это создание виртуального окружения командой
 
   python3 -m venv venvName
